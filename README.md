@@ -5,3 +5,11 @@ My VS Code settings.
 ## Location For This Repo
 
 Windows: `%APPDATA%\Code\User`
+
+## Extensions Used
+
+- C#
+- PowerShell
+- Tomorrow and Tomorrow Night Theme Kit
+- Debugger for Chrome
+- Gulp Snippets
