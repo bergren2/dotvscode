@@ -1,0 +1,6 @@
+// Place your key bindings in this file to overwrite the defaults
+[{ 
+  "key": "shift+f12",
+  "command": "editor.action.trimTrailingWhitespace",
+  "when": "editorTextFocus"
+}]
