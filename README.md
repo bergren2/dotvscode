@@ -13,3 +13,4 @@ Windows: `%APPDATA%\Code\User`
 - Tomorrow and Tomorrow Night Theme Kit
 - Debugger for Chrome
 - Gulp Snippets
+- Vim
