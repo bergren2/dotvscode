@@ -1,10 +1,11 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.cursorBlinking": "visible",
+    "editor.cursorBlinking": "solid",
     "editor.renderWhitespace": true,
     "editor.rulers": [80, 120],
     "files.associations": {"*.aspx": "vb"},
     "files.trimTrailingWhitespace": true,
     "html.suggest.html5": true,
-    "vim.useCtrlKeys": true
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true
 }
