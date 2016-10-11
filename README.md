@@ -9,6 +9,7 @@ Windows: `%APPDATA%\Code\User`
 ## Extensions Used
 
 - C#
+- Classic ASP
 - PowerShell
 - Tomorrow and Tomorrow Night Theme Kit
 - Debugger for Chrome

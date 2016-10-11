@@ -3,7 +3,7 @@
     "editor.cursorBlinking": "solid",
     "editor.renderWhitespace": true,
     "editor.rulers": [80, 120],
-    "files.associations": {"*.aspx": "vb"},
+    "files.associations": {"*.asp": "asp", "*.aspx": "vb"},
     "files.trimTrailingWhitespace": true,
     "html.suggest.html5": true,
     "vim.useCtrlKeys": true,
